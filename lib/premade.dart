@@ -31,9 +31,7 @@ class _premadeState extends State<premade> {
                   children: [
                     Padding(padding: EdgeInsets.all(10),
                       child: TextField(
-                        onChanged: (value){
-
-                        },
+                        onChanged: (value){ },
                         controller : editingController,
                         decoration: InputDecoration(
                             hintText: "Search",
@@ -64,9 +62,7 @@ class _premadeState extends State<premade> {
                                           Text("Choco Lava",style: TextStyle(
                                             fontSize: 25,
                                             fontWeight: FontWeight.w700,
-
                                           ),),
-                                          
                                           Text(" crispy choco chips"),
                                           Padding(
                                             padding: const EdgeInsets.all(7.0),
@@ -82,7 +78,6 @@ class _premadeState extends State<premade> {
                                               ],
                                             ),
                                           )
-
                                         ],
                                       ),
                                     )
@@ -109,9 +104,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -127,7 +120,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -155,9 +147,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -173,7 +163,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -201,9 +190,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -219,7 +206,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -247,9 +233,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -265,7 +249,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -293,9 +276,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -311,7 +292,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -339,9 +319,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -357,7 +335,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -385,9 +362,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -403,7 +378,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -431,9 +405,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -449,7 +421,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -477,9 +448,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -495,7 +464,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -523,9 +491,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
@@ -541,7 +507,6 @@ class _premadeState extends State<premade> {
                                                 ],
                                               ),
                                             )
-
                                           ],
                                         ),
                                       )
@@ -569,9 +534,7 @@ class _premadeState extends State<premade> {
                                             Text("Choco Lava",style: TextStyle(
                                               fontSize: 25,
                                               fontWeight: FontWeight.w700,
-
                                             ),),
-
                                             Text(" crispy choco chips"),
                                             Padding(
                                               padding: const EdgeInsets.all(7.0),
