@@ -1,6 +1,6 @@
 # makemycake
 
-A new Flutter project.
+A new Flutter Application of Custom Made Cake
 
 ## Getting Started
 
