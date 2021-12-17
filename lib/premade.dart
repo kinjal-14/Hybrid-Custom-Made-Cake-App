@@ -137,6 +137,100 @@ class _premadeState extends State<premade> {
                                   )
                               ),
                             ),
+                            Padding(
+                              padding: const EdgeInsets.only(top: 15.0, bottom: 8.0,left: 8.0,right: 8.0),
+                              child: Container(
+                                  height: 100,
+                                  color: Colors.blueGrey,
+                                  child: Row(
+                                    children: [
+                                      SizedBox(
+                                        width: 100,
+                                        height: 130,
+
+                                        child:
+                                        Image.asset("cake8.jpg",height: 70,width: 70,),),
+                                      Padding(
+                                        padding: const EdgeInsets.all(8.0),
+                                        child: Column(
+                                          children: [
+                                            Text("Choco Lava",style: TextStyle(
+                                              fontSize: 25,
+                                              fontWeight: FontWeight.w700,
+
+                                            ),),
+
+
+                                            Text(" crispy choco chips"),
+                                            Padding(
+                                              padding: const EdgeInsets.all(7.0),
+                                              child: Row(
+                                                children: [
+                                                  Icon(Icons.favorite,
+                                                    color: Colors.pink,),
+                                                  Text("FAV"),
+                                                  Icon(Icons.add_location_rounded,color: Colors.greenAccent,),
+                                                  Text("14km"),
+                                                  Icon(Icons.access_time_outlined,color: Colors.orangeAccent, ),
+                                                  Text("45 mins"),
+                                                ],
+                                              ),
+                                            )
+
+                                          ],
+                                        ),
+                                      )
+                                    ],
+                                  )
+                              ),
+                            ),
+                            Padding(
+                              padding: const EdgeInsets.only(top: 15.0, bottom: 8.0,left: 8.0,right: 8.0),
+                              child: Container(
+                                  height: 100,
+                                  color: Colors.blueGrey,
+                                  child: Row(
+                                    children: [
+                                      SizedBox(
+                                        width: 100,
+                                        height: 130,
+
+                                        child:
+                                        Image.asset("images/cake8.jpg",height: 70,width: 70,),),
+                                      Padding(
+                                        padding: const EdgeInsets.all(8.0),
+                                        child: Column(
+                                          children: [
+                                            Text("Choco Lava",style: TextStyle(
+                                              fontSize: 25,
+                                              fontWeight: FontWeight.w700,
+
+                                            ),),
+
+
+                                            Text(" crispy choco chips"),
+                                            Padding(
+                                              padding: const EdgeInsets.all(7.0),
+                                              child: Row(
+                                                children: [
+                                                  Icon(Icons.favorite,
+                                                    color: Colors.pink,),
+                                                  Text("FAV"),
+                                                  Icon(Icons.add_location_rounded,color: Colors.greenAccent,),
+                                                  Text("14km"),
+                                                  Icon(Icons.access_time_outlined,color: Colors.orangeAccent, ),
+                                                  Text("45 mins"),
+                                                ],
+                                              ),
+                                            )
+
+                                          ],
+                                        ),
+                                      )
+                                    ],
+                                  )
+                              ),
+                            ),
                             
                             
                             
